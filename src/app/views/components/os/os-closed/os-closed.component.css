@@ -1,0 +1,45 @@
+.create {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.create button {
+    width: 100%;
+    margin: 1rem auto;
+}
+
+.container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    width: 100%;
+}
+
+#edit {
+    color: yellow;
+}
+
+#visibility {
+    color: red;
+}
+
+td.baixa {
+    color: green;
+}
+
+td.media {
+    color: yellow;
+}
+
+td.alta {
+    color: red;
+}
